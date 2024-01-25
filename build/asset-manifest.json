@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ded3895.css",
-    "main.js": "/static/js/main.ee231649.js",
-    "index.html": "/index.html",
-    "main.1ded3895.css.map": "/static/css/main.1ded3895.css.map",
-    "main.ee231649.js.map": "/static/js/main.ee231649.js.map"
+    "main.css": "/React-habbit-tracker/static/css/main.1ded3895.css",
+    "main.js": "/React-habbit-tracker/static/js/main.ee231649.js",
+    "index.html": "/React-habbit-tracker/index.html",
+    "main.1ded3895.css.map": "/React-habbit-tracker/static/css/main.1ded3895.css.map",
+    "main.ee231649.js.map": "/React-habbit-tracker/static/js/main.ee231649.js.map"
   },
   "entrypoints": [
     "static/css/main.1ded3895.css",
